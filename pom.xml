@@ -26,7 +26,7 @@
     <name>Vibur DBCP - Hibernate 5+ Integration</name>
     <description>Hibernate 5+ integration for Vibur DBCP.</description>
     <url>http://www.vibur.org</url>
-    <inceptionYear>2013</inceptionYear>
+    <inceptionYear>2015</inceptionYear>
 
     <licenses>
         <license>
