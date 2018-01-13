@@ -81,7 +81,7 @@
         <vibur.osgi.version>22.0</vibur.osgi.version>
         <concurrentlinkedhashmap-lru.version>1.4.2</concurrentlinkedhashmap-lru.version>
         <slf4j.version>1.7.13</slf4j.version>
-        <hibernate-core.version>5.0.6.Final</hibernate-core.version>
+        <hibernate-core.version>5.0.12.Final</hibernate-core.version>
         <jta.version>1.1</jta.version>
 
         <junit.version>4.12</junit.version>
